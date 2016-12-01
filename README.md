@@ -65,7 +65,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 * Una vez elaborado este documento se procederá a elegir un diseño y se implementará la tienda en Wordpress.
 
-## Clase 6 - Estudio de clientes
+## Clase 6 - Estudio de clientes (01/12/2016)
  * Crear los grupos y utilizar el repositorio para subir los deberes [aquí](https://classroom.github.com/group-assignment-invitations/dfccd734e60a91bbaae38fe1415d68a7)
 
 ## Deberes/Proyectos
