@@ -20,7 +20,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 **Todo el material utilizado en las clases se encontrará [aquí](https://github.com/EPN-CE-2016B/).**
 
-**DEBEN ACEPTAR LA INVITACION A LA CLASE [AQUí]()**
+**DEBEN ACEPTAR LA INVITACION A LA CLASE [AQUí](https://classroom.github.com/classrooms/23508732-comercio-electronico)**
 
 ## Clase 4 -  (17/11/2016)
  * Elaborar un estudio de mercado sobre la idea de negocio que han decidido, el estudio de mercado debe contener 3 fases:
@@ -64,6 +64,9 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * **Estrategia de diferencia competitiva.**  Ofrecer algo que no ofrece la competencia, por lo que tu objetivo principal es crear valor agregado en que demuestre los esfuerzos por ser único en el mercado. Esta estrategia incluye elementos como diseño, imagen corporativa, atención a clientes (sitio web, chat en vivo, redes sociales), métodos de pago y envío.  
 
 * Una vez elaborado este documento se procederá a elegir un diseño y se implementará la tienda en Wordpress.
+
+## Clase 6 - Estudio de clientes
+ * Crear los grupos y utilizar el repositorio para subir los deberes [aquí](https://classroom.github.com/group-assignment-invitations/dfccd734e60a91bbaae38fe1415d68a7)
 
 ## Deberes/Proyectos
 
