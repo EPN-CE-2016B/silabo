@@ -68,6 +68,13 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ## Clase 6 - Estudio de clientes (01/12/2016)
  * Crear los grupos y utilizar el repositorio para subir los deberes [aquí](https://classroom.github.com/group-assignment-invitations/dfccd734e60a91bbaae38fe1415d68a7)
 
+ ## Clase 9 - Wordpress
+  * ID PeerWise 14432
+  * Consulta La ley de comercio electrónico en el Ecuador
+   * Hacer preguntas sobre la consulta en el peerwise.
+   * Una presentación corta sobre los artículos de la ley.
+  * Seguir el tutorial para creación de plantillas en WP utilizando Bootstrap (en el repositorio de la clase 9)
+
 ## Deberes/Proyectos
 
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.
